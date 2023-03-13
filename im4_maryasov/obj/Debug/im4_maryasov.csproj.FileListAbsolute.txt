@@ -1,0 +1,10 @@
+C:\im\GOL-master\im4_maryasov\bin\Debug\im4_maryasov.exe.config
+C:\im\GOL-master\im4_maryasov\bin\Debug\im4_maryasov.exe
+C:\im\GOL-master\im4_maryasov\bin\Debug\im4_maryasov.pdb
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4_maryasov.csproj.AssemblyReference.cache
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4.MAIN_WINDOW.resources
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4_maryasov.Properties.Resources.resources
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4_maryasov.csproj.GenerateResource.cache
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4_maryasov.csproj.CoreCompileInputs.cache
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4_maryasov.exe
+C:\im\GOL-master\im4_maryasov\obj\Debug\im4_maryasov.pdb
